@@ -6,8 +6,11 @@ Team Members:
 --- 
 
 ## Project Objective
-{What are you proposing to do?}
+The goal of this project is to develop an autonomous system for a simulated TurtleBot3 operating in a warehouse environment using Gazebo. The robot will be capable of navigating through a structured warehouse layout, locating pallet positions on storage racks, and executing retrieval tasks.
 
+- Navigate safely using mapping and localization
+- Identify and approach pallet locations
+- Execute retrieval behaviors (simulated pickup or docking interaction)
 
 ## Contributions
 {What is new/unique/interesting about this project?}

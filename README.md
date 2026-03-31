@@ -1,7 +1,4 @@
-# Final-Project
-IE 482-582 Final Project Repo - Cam Carter
-
-# {Provide a Project Title Here}
+# Autonomous Pallet Retrieval Using TurtleBot3 in Gazebo
 
 Team Members:
 - Cam Carter, carter28@buffalo.edu

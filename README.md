@@ -1,4 +1,4 @@
-# Autonomous Pallet Retrieval Using TurtleBot3 in Gazebo
+# Autonomous Pallet Detection Using TurtleBot3 in Gazebo
 
 Team Members:
 - Cam Carter, carter28@buffalo.edu
@@ -6,11 +6,10 @@ Team Members:
 --- 
 
 ## Project Objective
-The goal of this project is to develop an autonomous system for a simulated TurtleBot3 operating in a warehouse environment using Gazebo. The robot will be capable of navigating through a structured warehouse layout, locating pallet positions on storage racks, and executing retrieval tasks.
+The goal of this project is to develop an autonomous system for a simulated TurtleBot3 operating in a warehouse environment using Gazebo. The robot will be capable of navigating through a structured warehouse layout and locating pallet positions on storage racks.
 
 - Navigate safely using mapping and localization
 - Identify and approach pallet locations
-- Execute retrieval behaviors (simulated pickup or docking interaction)
 
 ## Contributions
 By implementing this system in simulation, we will develop navigation algorithms using ROS, simulate warehouse automation tasks, and create the framework that could later be used in real robotic systems. (Also eliminates hardware issues)
@@ -24,7 +23,6 @@ By implementing this system in simulation, we will develop navigation algorithms
 (Task Planning and Control) A high-level controller will be developed to:
 - Target pallet locations
 - Coordinate navigation and interaction behaviors
-- Handle task sequencing (navigate → align → retrieve → return)
 
 ## Milestones/Schedule Checklist
 - [x] Complete proposal document (Due: 3/31)
@@ -47,5 +45,8 @@ By implementing this system in simulation, we will develop navigation algorithms
 - [ ] Robot can autonomously navigate the warehouse without collisions
 - [ ] Robot reaches specified pallet locations reliably
 - [ ] Robot correctly aligns with rack/pallet positions
-- [ ] Full task execution (navigate → retrieve → return) is demonstrated
-- [ ] Another user can replicate the simulation using the provided README
+
+## Progress Update
+- World has been created (warehouse_world.sdf) as a warehouse environment (floors, walls, two rows of racking)
+- No concerns as of yet, next steps to establish how the robot will recognize the slots.
+- Robot will then be added

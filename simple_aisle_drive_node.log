@@ -1,0 +1,8 @@
+[INFO] [1778774997.784075674] [simple_aisle_drive_node]: Simple aisle drive node initialized (timed, no odometry dependency).
+[INFO] [1778774997.796810615] [simple_aisle_drive_node]: WAITING: duration=3s, linear.x=0.00, angular.z=0.00
+[INFO] [1778775000.824910312] [simple_aisle_drive_node]: ALIGNING_TO_AISLE: duration=13s, linear.x=0.00, angular.z=-0.15
+[INFO] [1778775014.056044688] [simple_aisle_drive_node]: STOP_SETTLE: duration=1s, linear.x=0.00, angular.z=0.00
+[INFO] [1778775015.075975911] [simple_aisle_drive_node]: DRIVING_STRAIGHT: duration=52s, linear.x=0.20, angular.z=0.00
+[INFO] [1778775066.086951934] [simple_aisle_drive_node]: STOPPING: duration=1s, linear.x=0.00, angular.z=0.00
+[INFO] [1778775067.102823077] [simple_aisle_drive_node]: ROUTE_COMPLETE
+[INFO] [1778775067.115872305] [simple_aisle_drive_node]: Aisle traversal demonstration finished successfully.

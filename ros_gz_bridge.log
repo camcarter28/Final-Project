@@ -1,0 +1,5 @@
+[INFO] [1778710793.580427339] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/cmd_vel (gz.msgs.Twist]) -> /cmd_vel (geometry_msgs/msg/Twist)] (Lazy 0)
+[WARN] [1778710793.584862152] [ros_gz_bridge]: Failed to create a bridge for topic [/cmd_vel] with ROS2 type [geometry_msgs/msg/Twist] to topic [/cmd_vel] with Gazebo Transport type [gz.msgs.Twist]]: No template specialization for the pair
+[INFO] [1778710793.585329179] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/odom (gz.msgs.Odometry]) -> /odom (nav_msgs/msg/Odometry)] (Lazy 0)
+[WARN] [1778710793.585640380] [ros_gz_bridge]: Failed to create a bridge for topic [/odom] with ROS2 type [nav_msgs/msg/Odometry] to topic [/odom] with Gazebo Transport type [gz.msgs.Odometry]]: No template specialization for the pair
+[INFO] [1778711264.819170078] [rclcpp]: signal_handler(SIGINT/SIGTERM)

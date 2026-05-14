@@ -1,0 +1,17 @@
+[INFO] [launch]: All log files can be found below /home/carter28/.ros/log/2026-05-14-12-33-09-019061-DESKTOP-QLB6H5G-519
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [create-1]: process started with pid [524]
+[INFO] [parameter_bridge-2]: process started with pid [525]
+[INFO] [image_bridge-3]: process started with pid [526]
+[create-1] [INFO] [1778776389.717516899] [ros_gz_sim]: Requesting list of world names.
+[create-1] [INFO] [1778776389.931755084] [ros_gz_sim]: Entity creation successful.
+[INFO] [create-1]: process has finished cleanly [pid 524]
+[parameter_bridge-2] [INFO] [1778776390.731628597] [ros_gz_bridge]: Creating GZ->ROS Bridge: [clock (gz.msgs.Clock) -> clock (rosgraph_msgs/msg/Clock)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.747917719] [ros_gz_bridge]: Creating GZ->ROS Bridge: [joint_states (gz.msgs.Model) -> joint_states (sensor_msgs/msg/JointState)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.754830365] [ros_gz_bridge]: Creating GZ->ROS Bridge: [odom (gz.msgs.Odometry) -> odom (nav_msgs/msg/Odometry)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.761698909] [ros_gz_bridge]: Creating GZ->ROS Bridge: [tf (gz.msgs.Pose_V) -> tf (tf2_msgs/msg/TFMessage)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.770674475] [ros_gz_bridge]: Creating ROS->GZ Bridge: [cmd_vel (geometry_msgs/msg/TwistStamped) -> cmd_vel (gz.msgs.Twist)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.773778921] [ros_gz_bridge]: Creating GZ->ROS Bridge: [imu (gz.msgs.IMU) -> imu (sensor_msgs/msg/Imu)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.775317645] [ros_gz_bridge]: Creating GZ->ROS Bridge: [scan (gz.msgs.LaserScan) -> scan (sensor_msgs/msg/LaserScan)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776390.776747029] [ros_gz_bridge]: Creating GZ->ROS Bridge: [camera/camera_info (gz.msgs.CameraInfo) -> camera/camera_info (sensor_msgs/msg/CameraInfo)] (Lazy 0)
+[parameter_bridge-2] [INFO] [1778776424.240401760] [ros_gz_bridge]: Passing message from ROS geometry_msgs/msg/TwistStamped to Gazebo gz.msgs.Twist (showing msg only once per type)

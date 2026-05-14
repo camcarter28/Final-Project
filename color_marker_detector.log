@@ -1,0 +1,3 @@
+[INFO] [1778714461.664751332] [color_marker_detector]: Color marker detector running.
+[INFO] [1778714461.669890305] [color_marker_detector]: Listening to /camera/image_raw
+[INFO] [1778714461.688945493] [color_marker_detector]: Publishing /detected_color and /detected_slot

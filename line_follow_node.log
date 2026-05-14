@@ -1,0 +1,1 @@
+[INFO] [1778770900.686369460] [line_follow_node]: Line follow node started. Subscribing to /camera/image_raw and publishing /cmd_vel.

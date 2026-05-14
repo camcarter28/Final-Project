@@ -1,0 +1,116 @@
+[INFO] [1778712739.096662415] [simple_autonomous_node]: ============================================================
+[INFO] [1778712739.125448566] [simple_autonomous_node]: SIMPLE AUTONOMOUS DEMO NODE
+[INFO] [1778712739.140091025] [simple_autonomous_node]: Publishing geometry_msgs/msg/TwistStamped to /cmd_vel
+[INFO] [1778712739.150584731] [simple_autonomous_node]: Motion: forward 2s, stop 1s, rotate 2s, stop 1s, repeat
+[INFO] [1778712739.158551078] [simple_autonomous_node]: ============================================================
+[INFO] [1778712741.097261068] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712742.209235574] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712744.360134762] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712745.399416319] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712747.419964748] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712748.474783339] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712750.521127090] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712751.566955568] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712753.622752626] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712754.669795473] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712756.766334902] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712757.820094191] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712759.871449861] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712760.917535951] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712762.968410619] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712764.022598861] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712766.071804014] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712767.120538597] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712769.232749983] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712770.319129167] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712772.375469483] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712773.436502028] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712775.690360988] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712776.762132684] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712778.860156427] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712779.951510634] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712781.981166861] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712783.031746415] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712785.082493011] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712786.126838124] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712788.240450744] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712789.290477208] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712791.317707135] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712792.377022488] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712794.432848281] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712795.474319450] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712797.526859928] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712798.596178327] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712800.619008568] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712801.694477749] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712803.720273885] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712804.770936589] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712806.826987336] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712807.875462266] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712809.922866551] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712810.965568769] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712813.014893394] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712814.077101918] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712816.122061914] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712817.176224571] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712819.232412094] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712820.270540094] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712822.324856001] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712823.367339027] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712825.422453362] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712826.480596281] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712828.516084696] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712829.568703510] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712831.615046914] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712832.668020539] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712834.720457057] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712835.766394059] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712837.816327820] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712838.867971314] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712840.919578871] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712841.969222402] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712844.014495119] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712845.077065322] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712847.121091919] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712848.171801654] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712850.215122073] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712851.273337169] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712853.338119168] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712854.375105964] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712856.427370338] [simple_autonomous_node]: Completed rotation. Stopping.
+[INFO] [1778712857.470885130] [simple_autonomous_node]: Restarting forward motion.
+[INFO] [1778712859.518003911] [simple_autonomous_node]: Completed forward motion. Stopping.
+[INFO] [1778712860.566100119] [simple_autonomous_node]: Starting rotation.
+[INFO] [1778712861.864200582] [simple_autonomous_node]: Shutting down. Publishing zero velocity.
+Failed to publish log message to rosout: publisher's context is invalid, at ./src/rcl/publisher.c:423
+Traceback (most recent call last):
+  File "/mnt/c/Users/15188/Downloads/IE 482-582/spring2026/Projects/gazebo_demo/Final Project/simple_autonomous_node.py", line 90, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/15188/Downloads/IE 482-582/spring2026/Projects/gazebo_demo/Final Project/simple_autonomous_node.py", line 101, in <module>
+    main()
+  File "/mnt/c/Users/15188/Downloads/IE 482-582/spring2026/Projects/gazebo_demo/Final Project/simple_autonomous_node.py", line 95, in main
+    node.stop_robot()
+  File "/mnt/c/Users/15188/Downloads/IE 482-582/spring2026/Projects/gazebo_demo/Final Project/simple_autonomous_node.py", line 83, in stop_robot
+    self.publish_cmd()
+  File "/mnt/c/Users/15188/Downloads/IE 482-582/spring2026/Projects/gazebo_demo/Final Project/simple_autonomous_node.py", line 47, in publish_cmd
+    self.cmd_pub.publish(cmd)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/publisher.py", line 70, in publish
+    self.__publisher.publish(msg)
+rclpy._rclpy_pybind11.RCLError: Failed to publish: publisher's context is invalid, at ./src/rcl/publisher.c:423
